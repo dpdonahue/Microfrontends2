@@ -5,7 +5,7 @@ import MarketingApp from "./components/MarketingApp";
 export default () => {
     return (
         <>
-            <h1>Hello, Cruel World!</h1>
+            <h1>Hello, Cruel World.</h1>
             <hr />
             <MarketingApp />
         </>
